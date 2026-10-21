@@ -1,9 +1,9 @@
 # SHARK
 
 ## Description
-SHARK is a 3D CAD model designed using Onshape. The project focuses on creating a detailed shape with smooth, accurate curves. It demonstrates the use of 3D modeling tools to create complex geometry while maintaining the intended shape and proportions.
+SHARK is a 3D CAD model designed using Onshape. The project is made by me to understand the fundamentals. this is a helloween themed project
 
-## Inspiration / Motivation
+## Motivation
 THIS THING WAS HARD TO MADE AS ITS CURVES SHOULD BE ACCURATE.
 
 
