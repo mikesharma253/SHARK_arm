@@ -9,17 +9,19 @@ THIS THING WAS HARD TO MADE AS ITS CURVES SHOULD BE ACCURATE.
 
 ## Tools and Technologies Used
 - Onshape — 3D CAD design
-- PRINTABLES TO UPLOAD
+- Printables — 3D model upload
 
-
+## Description
 SHARK_arm is a 3D CAD mechanical arm model designed using Onshape to understand the fundamentals of mechanical design, focusing on creating accurate curves and developing basic 3D modelling skills.
 
+## BOM (Bill of Materials)
 
-Item,Description,Quantity,Unit,Unit Cost ($),Total Cost ($)
-1,PLA Filament,50,Grams,0.02,1.00
-2,3D Printed SHARK Arm,1,Piece,1.00,1.00
-,Grand Total,,,,1.00
+| No. | Item | Quantity | Unit | Unit Cost ($) | Total Cost ($) |
+|---|---|---:|---|---:|---:|
+| 1 | PLA Filament | 50 | Grams | 0.02 | 1.00 |
+| | **Grand Total** | | | | **1.00** |
 
+*Estimated cost based on 50 g of PLA filament at $20/kg.*
 
 
 ## Project Screenshots
