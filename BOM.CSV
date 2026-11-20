@@ -1,4 +1,4 @@
-Item	Quantity	Unit Cost (USD)	Total (USD)
-PLA 3D Printing Filament	1	$2.00	$2.00
-Miscellaneous Materials	1	$0.50	$0.50
-Grand Total			$2.50
+| No. | Item | Quantity | Unit | Unit Cost ($) | Total Cost ($) |
+|---|---|---:|---|---:|---:|
+| 1 | PLA Filament | 50 | Grams | 0.02 | 1.00 |
+| | **Grand Total** | | | | **1.00** |
